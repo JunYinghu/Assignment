@@ -4,8 +4,9 @@ Assignment
 - Unzip it and open it in Editor - recommend pycharm
 - Run testuserlogin - for web
 - Run testuserloginmobile - for mobile
-  
+- Due to timeline, it needs to refactor
+
 ## Result and Setup - Assignment - Reference.doc
 ## 3 tests cases - MobileApp cases.txt
 
-- Due to timeline, it needs to refactor.
+
