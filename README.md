@@ -1,4 +1,5 @@
- Assignment
+
+Assignment
 ## Download straits_times_com.rar
 - Unzip it and open it in Editor - recommend pycharm
 - Run testuserlogin - for web
@@ -6,3 +7,5 @@
   
 ## Result and Setup - Assignment - Reference.doc
 ## 3 tests cases - MobileApp cases.txt
+
+- Due to timeline, it needs to refactor.
