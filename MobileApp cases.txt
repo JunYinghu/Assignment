@@ -1,23 +1,23 @@
 case1
-1, Open Straits Times Application
-2, Tap on to Menu icon
+1, Open the straitstimes application
+2, Open drawer menu
 3, Tap on Subscribe - verify the first option is not selected
-4, Select the first option and Subscribe Now
+4, Select the first option (check box) and Click on Subscribe Now
 5, Complete the next step
-5, Re-tap Menu icon and tap on Subscribe - verify selected option is checked
+6, Re-tap drawer menu and tap on Subscribe - verify selected option is checked
 
 case 2
-1, Open Straits Times Application
-2, Tap on to Menu icon
+1, Open the straitstimes application
+2, Open drawer menu
 3, tap on Settings
-4, Swift off Notifications options
-5, Click on Go back and re-tap Menu icon 
-6, Tap on Settngs -Verify Notifications remains the updated selected options
+4, Swift off Notifications option
+5, Click on Go back and re-tap drawer menu 
+6, Tap on Settngs -Verify Notifications remains the updated selected option (swift off)
 
 
 case 3
-1, Open Straits Times Application
-2, Tap on to Menu icon
+1, Open the straitstimes application
+2, Open drawer menu
 3, Tap on Search topic textbox 
 4, In the Search Topics textbox - Enter search keywords "Singapore news" and click on Search from keyboard
 5, In the result page - Verify listed news titile with 'Singapore news'
