@@ -1,3 +1,4 @@
+case1
 1, Open Straits Times Application
 2, Tap on to Menu icon
 3, Tap on Subscribe - verify the first option is not selected
