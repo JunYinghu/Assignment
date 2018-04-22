@@ -13,13 +13,15 @@
 - Android 7.0
 
 ## Secinaro
--  Launch app
--  Go to main page
--  Login app with user name / password
--  Verify User login successfully
--  Go to latest page
--  View the first news 
--  Verify whether an image displaying 
+- Launch app (Straits Times)
+- Go to main page
+- Go to menu list
+- Tap on Login  
+- Enter user name / password - Verify User login successfully
+- Go to latest page if user sign in 
+- View the first news 
+- Verify whether an image displaying in the opened news
+
 
 ## Code Challenge:
 -  swipe - advertisements
