@@ -6,7 +6,13 @@ Assignment
 - Run testuserloginmobile - for mobile
 - Due to timeline, it needs to refactor
 
-## Result and Setup - Assignment - Reference.doc
-## 3 tests cases - MobileApp cases.txt
+## Setup - Assignment - Reference.doc
+- Python 2.7
+- Selenium web driver
+- Android Studio
+- Appium 1.7.2
+# Device: 
+- OPPO  R11s 
+- Android 7.0
 
 
