@@ -13,16 +13,16 @@
 - Android 7.0
 
 ## Secinaro
-- 1, Launch app
-- 2, Go to main page
-- 3, Login app with user name / password
-- 4, Verify User login successfully
-- 5, Go to latest page
-- 6, View the first news 
-- 7, Verify whether an image displaying 
+-  Launch app
+-  Go to main page
+-  Login app with user name / password
+-  Verify User login successfully
+-  Go to latest page
+-  View the first news 
+-  Verify whether an image displaying 
 
 ## Code Challenge:
-- 1, swipe - advertisements
-- 2, tap - cannot locate element (no id, name, css, accessibility id, xpath)
-- 3, keyevent - sendkeys is not wroking as entring username
-- 4, Try ... except -  while element is not found
+-  swipe - advertisements
+-  tap - cannot locate element (no id, name, css, accessibility id, xpath)
+-  keyevent - sendkeys is not wroking as entring username
+-  Try ... except -  while element is not found
